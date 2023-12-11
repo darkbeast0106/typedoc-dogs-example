@@ -4,7 +4,7 @@ import { Dog } from "./Dog";
  * Kutya API műveleteit végrehajtó osztály
  */
 export class DogService {
-    url = "/public/dogs.json";
+    url = "dogs.json";
 
     /**
      * Visszaadja az összes kutya adatát
