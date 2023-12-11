@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "age": 2,
+    "name": "Lorelle",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 2,
+    "age": 4,
+    "name": "Etienne",
+    "breed": "Dalmatian"
+  },
+  {
+    "id": 3,
+    "age": 1,
+    "name": "Willey",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 4,
+    "age": 8,
+    "name": "Tory",
+    "breed": "Golden Retriever"
+  },
+  {
+    "id": 5,
+    "age": 4,
+    "name": "Phillipp",
+    "breed": "Labrador"
+  },
+  {
+    "id": 6,
+    "age": 4,
+    "name": "Ardeen",
+    "breed": "Yorkshire Terrier"
+  },
+  {
+    "id": 7,
+    "age": 2,
+    "name": "Hilario",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 8,
+    "age": 9,
+    "name": "Chloe",
+    "breed": "German Shepherd "
+  },
+  {
+    "id": 9,
+    "age": 8,
+    "name": "Vyky",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 10,
+    "age": 2,
+    "name": "Birch",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 11,
+    "age": 1,
+    "name": "Doretta",
+    "breed": "German Shepherd "
+  },
+  {
+    "id": 12,
+    "age": 10,
+    "name": "Phillipp",
+    "breed": "Golden Retriever"
+  },
+  {
+    "id": 13,
+    "age": 5,
+    "name": "Carola",
+    "breed": "Beagle"
+  },
+  {
+    "id": 14,
+    "age": 5,
+    "name": "Richardo",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 15,
+    "age": 7,
+    "name": "Micah",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 16,
+    "age": 7,
+    "name": "Carola",
+    "breed": "Beagle"
+  },
+  {
+    "id": 17,
+    "age": 1,
+    "name": "Eugenius",
+    "breed": "Labrador"
+  },
+  {
+    "id": 18,
+    "age": 9,
+    "name": "Ricki",
+    "breed": "Dalmatian"
+  },
+  {
+    "id": 19,
+    "age": 4,
+    "name": "Benedetta",
+    "breed": "Husky"
+  },
+  {
+    "id": 20,
+    "age": 7,
+    "name": "Seth",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 21,
+    "age": 2,
+    "name": "Ajay",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 22,
+    "age": 6,
+    "name": "Ulrika",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 23,
+    "age": 5,
+    "name": "Gusty",
+    "breed": "Chihuahua"
+  },
+  {
+    "id": 24,
+    "age": 5,
+    "name": "Christoph",
+    "breed": "Yorkshire Terrier"
+  },
+  {
+    "id": 25,
+    "age": 4,
+    "name": "Seth",
+    "breed": "Labrador"
+  },
+  {
+    "id": 26,
+    "age": 5,
+    "name": "Angelia",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 27,
+    "age": 2,
+    "name": "Iolande",
+    "breed": "Chihuahua"
+  },
+  {
+    "id": 28,
+    "age": 7,
+    "name": "Brigid",
+    "breed": "Labrador"
+  },
+  {
+    "id": 29,
+    "age": 9,
+    "name": "Sondra",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 30,
+    "age": 3,
+    "name": "Antoine",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 31,
+    "age": 6,
+    "name": "Halie",
+    "breed": "Husky"
+  },
+  {
+    "id": 32,
+    "age": 4,
+    "name": "Erinn",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 33,
+    "age": 10,
+    "name": "Genia",
+    "breed": "Dalmatian"
+  },
+  {
+    "id": 34,
+    "age": 8,
+    "name": "Augusta",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 35,
+    "age": 2,
+    "name": "Valerye",
+    "breed": "Beagle"
+  },
+  {
+    "id": 36,
+    "age": 5,
+    "name": "Lazare",
+    "breed": "Dalmatian"
+  },
+  {
+    "id": 37,
+    "age": 3,
+    "name": "Marjory",
+    "breed": "Golden Retriever"
+  },
+  {
+    "id": 38,
+    "age": 5,
+    "name": "Dag",
+    "breed": "Husky"
+  },
+  {
+    "id": 39,
+    "age": 10,
+    "name": "Cristionna",
+    "breed": "Yorkshire Terrier"
+  },
+  {
+    "id": 40,
+    "age": 6,
+    "name": "Purcell",
+    "breed": "German Shepherd "
+  },
+  {
+    "id": 41,
+    "age": 6,
+    "name": "Ulick",
+    "breed": "Beagle"
+  },
+  {
+    "id": 42,
+    "age": 6,
+    "name": "Charo",
+    "breed": "Husky"
+  },
+  {
+    "id": 43,
+    "age": 7,
+    "name": "Johannah",
+    "breed": "Beagle"
+  },
+  {
+    "id": 44,
+    "age": 4,
+    "name": "Iolande",
+    "breed": "Pomeranian"
+  },
+  {
+    "id": 45,
+    "age": 6,
+    "name": "Mickie",
+    "breed": "Husky"
+  },
+  {
+    "id": 46,
+    "age": 9,
+    "name": "Sela",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 47,
+    "age": 6,
+    "name": "Ivar",
+    "breed": "Dalmatian"
+  },
+  {
+    "id": 48,
+    "age": 6,
+    "name": "Niccolo",
+    "breed": "Chihuahua"
+  },
+  {
+    "id": 49,
+    "age": 6,
+    "name": "Anatola",
+    "breed": "Bulldog"
+  },
+  {
+    "id": 50,
+    "age": 6,
+    "name": "Dalenna",
+    "breed": "Dalmatian"
+  }
+]
